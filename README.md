@@ -1,4 +1,4 @@
-# auth_screens
+# El Talk Flutter
 
 A new Flutter project.
 
